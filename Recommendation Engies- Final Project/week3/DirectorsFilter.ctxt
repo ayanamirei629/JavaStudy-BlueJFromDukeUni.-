@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DirectorsFilter
+comment1.params=directors
+comment1.target=DirectorsFilter(java.lang.String)
+comment2.params=input
+comment2.target=java.util.ArrayList\ getList(java.lang.String)
+comment3.params=id
+comment3.target=boolean\ satisfies(java.lang.String)
+numComments=4
