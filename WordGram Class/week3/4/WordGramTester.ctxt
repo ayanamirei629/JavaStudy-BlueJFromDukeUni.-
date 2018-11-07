@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=WordGramTester
+comment1.params=
+comment1.target=void\ testWordGram()
+comment2.params=
+comment2.target=void\ testWordGramEquals()
+comment3.params=
+comment3.target=void\ testShift()
+comment4.params=
+comment4.target=void\ testFollow()
+comment5.params=
+comment5.target=void\ testMap()
+numComments=6
